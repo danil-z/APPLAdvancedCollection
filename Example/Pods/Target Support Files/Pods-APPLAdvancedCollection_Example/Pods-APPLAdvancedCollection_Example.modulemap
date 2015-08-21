@@ -1,0 +1,6 @@
+framework module Pods_APPLAdvancedCollection_Example {
+  umbrella header "Pods-APPLAdvancedCollection_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

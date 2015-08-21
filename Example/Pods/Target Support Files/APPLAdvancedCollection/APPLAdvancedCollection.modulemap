@@ -1,0 +1,6 @@
+framework module APPLAdvancedCollection {
+  umbrella header "APPLAdvancedCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}

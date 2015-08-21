@@ -1,0 +1,25 @@
+{
+  "name": "APPLAdvancedCollection",
+  "version": "0.1.0",
+  "summary": "A short description of APPLAdvancedCollection.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/APPLAdvancedCollection",
+  "license": "MIT",
+  "authors": {
+    "Danil Zvyagintsev": "danil@autoservice61.ru"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/APPLAdvancedCollection.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "APPLAdvancedCollection": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+PODS:
+  - APPLAdvancedCollection (0.1.0)
+
+DEPENDENCIES:
+  - APPLAdvancedCollection (from `../`)
+
+EXTERNAL SOURCES:
+  APPLAdvancedCollection:
+    :path: ../
+
+SPEC CHECKSUMS:
+  APPLAdvancedCollection: 99024690e537c15f0fc6904582753a14c95f0131
+
+COCOAPODS: 0.38.2
