@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'APPLAdvancedCollection_Example', :exclusive => true do
+  pod "APPLAdvancedCollection", :path => "../"
+end
+
+target 'APPLAdvancedCollection_Tests', :exclusive => true do
+  pod "APPLAdvancedCollection", :path => "../"
+
+  
+end
